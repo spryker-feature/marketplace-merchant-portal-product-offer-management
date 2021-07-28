@@ -14,6 +14,7 @@
         }
     },
     "suggest": {
+        "spryker-feature/marketplace-merchantportal-core": "Recommended feature dependency.",
         "spryker-feature/marketplace-product-offer": "Recommended feature dependency."
     }
 }
