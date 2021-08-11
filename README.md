@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Merchant Portal Product Offer Management
 
-
+Merchants can manage their product offers in Merchant Portal.
 
 ## Installation
 
