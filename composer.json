@@ -7,11 +7,11 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.3",
-        "spryker/product-offer-merchant-portal-gui": "^0.15.0"
+        "spryker/product-offer-merchant-portal-gui": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202107.x-dev"
+            "dev-master": "202108.x-dev"
         }
     },
     "suggest": {
