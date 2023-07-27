@@ -2,6 +2,8 @@
 
 Merchants can manage their product offers in Merchant Portal.
 
+[Learn more](https://docs.spryker.com/docs/marketplace/user/features/202204.0/marketplace-merchant-portal-product-offer-management-feature-overview.html)
+
 ## Installation
 
 ```
