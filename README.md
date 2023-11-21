@@ -19,4 +19,4 @@ composer require spryker-feature/marketplace-merchant-portal-product-offer-manag
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [ProductOfferMerchantPortalGuiExtension ^1.0.0](https://github.com/spryker/product-offer-merchant-portal-gui-extension) (Extension)
+- [ProductOfferMerchantPortalGuiExtension ^1.1.0](https://github.com/spryker/product-offer-merchant-portal-gui-extension) (Extension)
