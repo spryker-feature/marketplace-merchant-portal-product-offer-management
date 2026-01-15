@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/product-offer-merchant-portal-gui": "^3.1.0"
+        "spryker/product-offer-merchant-portal-gui": "^4.0.0"
     },
     "extra": {
         "branch-alias": {
